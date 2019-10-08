@@ -19,7 +19,7 @@
 
 db_user
 
-- 用户ID(uid)主键, 用户名(uname), 用户密码(upasswd), 用户邮箱(email), 用户头像(head_portrait), 注册时间(reg_time) 
+- 用户ID(uid)主键, 用户名(uname), 用户状态(state, 0表示已删除，1表示正常，2表示冻结，3表示异常)用户密码(upasswd), 用户邮箱(email), 用户头像(head_portrait), 注册时间(reg_time)
 
 db_mess
 

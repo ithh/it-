@@ -1,31 +1,34 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <!-- saved from url=(0026)http://bbs.diyhi.com/login -->
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     	<!--<base href="http://bbs.diyhi.com/">--><base href=".">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>登录 - it发烧友</title>
 
+		<title>登录 - 巡云轻论坛演示站</title>
 		<meta name="keywords" content="巡云轻论坛演示站">
 		<meta name="description" content="巡云轻论坛演示站">
 		<link rel="shortcut icon" type="image/x-icon" href="http://bbs.diyhi.com/common/default/pc/images/favicon.ico" media="screen">
-		<link href="../static/login_it_tieba_files/common.css" type="text/css" rel="stylesheet">
-		<script src="../static/login_it_tieba_files/core.js" language="javascript" type="text/javascript"></script>
-		<script src="../static/login_it_tieba_files/sha256.js" language="javascript" type="text/javascript"></script>
-		<script language="javascript" src="../static/login_it_tieba_files/tool.js" type="text/javascript"></script>
-		<script language="javascript" src="../static/login_it_tieba_files/ajax.js" type="text/javascript"></script>
-		<script language="javascript" src="../static/login_it_tieba_files/json2.js" type="text/javascript"></script>
+		<link href="../static/register_it_tieba_files/common.css" type="text/css" rel="stylesheet">
+		<script src="../static/register_it_tieba_files/core.js.下载" language="javascript" type="text/javascript"></script>
+		<script src="../static/register_it_tieba_files/sha256.js.下载" language="javascript" type="text/javascript"></script>
+		<script language="javascript" src="../static/register_it_tieba_files/tool.js.下载" type="text/javascript"></script>
+		<script language="javascript" src="../static/register_it_tieba_files/ajax.js.下载" type="text/javascript"></script>
+		<script language="javascript" src="../static/register_it_tieba_files/json2.js.下载" type="text/javascript"></script>
     </head>
     <body>
+			{% if login_fail %}
+			<script>
+				alert("用户名或密码错误，请重新登录！");
+			</script>
+			{% endif %}
 <div class="headerModule">
 	<div class="box">
-		<a href="http://127.0.0.1:5000/" class="logo">
-			<img alt="LOGO" src="../static/login_it_tieba_files/logo.gif">
+		<a href="http://bbs.diyhi.com/" class="logo">
+			<img alt="LOGO" src="../static/register_it_tieba_files/logo.gif">
 		</a>
 <div class="nav">
 	<ul class="clearfix">
-			<li><a href="http://127.0.0.1:5000/">首页</a></li>
+			<li><a href="http://bbs.diyhi.com/index">首页</a></li>
+			<li><a href="http://bbs.diyhi.com/membershipCardList">会员卡</a></li>
 	</ul>
 </div>
 
@@ -37,8 +40,8 @@
 		</div>
 		<div class="menu">
 			<ul class="clearfix">
-					<li><a href="http://127.0.0.1:5000/register">注册</a></li>
-					<li><a href="http://127.0.0.1:5000/login">登录</a></li>
+					<li><a href="reg">注册</a></li>
+					<li><a href="login">登录</a></li>
 			</ul>
 		</div>
 	</div>
@@ -48,7 +51,7 @@
    	<div class="skeleton backgroundModule">
 		<div class="main wrap backgroundModule">
 	   		<div style="background: #fff; height: 1px;"></div>
-	        <form id="loginForm" name="login" method="post" autocomplete="off" action="http://bbs.diyhi.com/login?jumpUrl=" onkeydown="keydown(event);">
+	        <form id="loginForm" name="login" method="post" autocomplete="off" action="/login" onkeydown="keydown(event);">
 				<!-- 令牌标记 -->
 				<input type="hidden" id="token" name="token" value="726e827e76a44b5a93c6be91dc0b50b4">
 
@@ -61,7 +64,8 @@
 						<div class="username">
 			            	<span></span>
 			            	<input id="userName" name="userName" type="text" autocomplete="off" maxlength="40" value="" tabindex="1" onfocus="inputBoxTip_click(this);" onblur="inputBoxTip_leave(this);" onkeyup="showClearUserNameBox(this);">
-			            	<a class="clearUserName" id="clearUserName" href="javascript:void(0);" style="display:none;" onclick="javascript:clearUserName();"></a>
+							<a class="clearUserName" id="clearUserName" href="
+							javascript:void(0);" style="display:none;" onclick="javascript:clearUserName();"></a>
 			            	<label class="promptTag" id="userNameBoxTip" for="userName" style="display:block">用户名</label>
 			            </div>
 						<p class="tips">
@@ -85,7 +89,7 @@
 								<label class="promptTag" id="captchaValueBoxTip" style="display: block;" for="captchaValue">验证码</label>
 							</div>
 							<a class="captchaImage" href="javascript:void(0);">
-								<img id="captcha" src="../static/login_it_tieba_files/jpg" onclick="replaceCaptcha();" tabindex="4">
+								<img id="captcha" src="../static/register_it_tieba_files/jpg" onclick="replaceCaptcha();" tabindex="4">
 							</a>
 							<a href="javascript:void(0);" onclick="replaceCaptcha();" tabindex="5">换一幅</a>
 						</div>
@@ -106,9 +110,12 @@
 
 
 						<!-- 登录  -->
-						<p class="loginButton">
+						<!-- <p class="loginButton" >
 							<a href="javascript:void(0);" onclick="javascript:ajaxSubmit()" tabindex="6">登&nbsp;录</a>
-						</p>
+						</p> -->
+						<button type="submit">
+							登录
+						</button>
 					</div>
 
 				</div>
@@ -120,9 +127,12 @@
 <div class="footer">
     <div class="message">
 
-
+	</div>
+	<div class="copyright">Powered by <a target="_blank" href="http://www.diyhi.com/" class="link">diyhi</a>
+	<a target="_blank" href="http://bbs.diyhi.com/feedback">联系我们</a>
+	</div>
 </div>
-
+<a href="http://www.diyhi.com/" id="pop_backButton" class="backButton">返回巡云官网</a>
 <style type="text/css">
 	/* 返回按钮 */
 	.backButton:before{ position: absolute; content: " "; border: transparent 14px solid; border-width: 13px 8px ; border-right-color: #26a3ff; top: 1px; left: -16px; height: 0; width: 0; }
