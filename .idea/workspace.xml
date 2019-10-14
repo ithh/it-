@@ -3,13 +3,75 @@
   <component name="ChangeListManager">
     <list default="true" id="b404b386-b647-408b-8539-a6254ebd24af" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/it_tieba_files/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/it_tieba_files/common.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/it_tieba.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/it_tieba.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/it_tieba_files/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/it_tieba_files/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/it_tieba_files/ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/it_tieba_files/comment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/it_tieba_files/comment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/it_tieba_files/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/it_tieba_files/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/it_tieba_files/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/it_tieba_files/json2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/it_tieba_files/kindeditor-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/it_tieba_files/layer(1).css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/it_tieba_files/layer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/it_tieba_files/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/it_tieba_files/logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/it_tieba_files/null.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/it_tieba_files/pageview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/it_tieba_files/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/it_tieba_files/tool.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/login_it_tieba_files/ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/login_it_tieba_files/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/login_it_tieba_files/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/login_it_tieba_files/jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/login_it_tieba_files/json2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/login_it_tieba_files/logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/login_it_tieba_files/sha256.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/login_it_tieba_files/tool.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/register_it_tieba_files/ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/register_it_tieba_files/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/register_it_tieba_files/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/register_it_tieba_files/json2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/register_it_tieba_files/logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/register_it_tieba_files/sha256.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/register_it_tieba_files/tool.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/register_it_tieba_files/yz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/11d1d2c40bb9447e887db9610aa67ddab2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/2(1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/71d770d5d7a84db38fc3f2cdf65cc7a9b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/db702a4eb09b4877a3f9bb2895852ea9b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/json2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/kindeditor-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/layer(1).css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/layer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/shBrushCss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/shBrushJScript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/shBrushJava.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/shBrushXml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/shCore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/shCoreDefault.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/simplebox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/simplebox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/tool.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/求拍摄技巧。。 - 巡云轻论坛演示站_files/zh-CN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/it_tieba.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/register.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,85 +81,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/it_tieba$it_tieba.coverage" NAME="it_tieba Coverage Results" MODIFIED="1570537535511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/it_tieba$manage.coverage" NAME="manage Coverage Results" MODIFIED="1570862787767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/it_tieba$it_tieba.coverage" NAME="it_tieba Coverage Results" MODIFIED="1570861574538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/it_tieba$models.coverage" NAME="models Coverage Results" MODIFIED="1570859698272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/it_tieba$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1570861403597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-160">
-              <caret line="70" column="35" lean-forward="true" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
+            <state relative-caret-position="2640">
+              <caret line="120" selection-start-line="120" selection-end-line="120" />
               <folding>
-                <element signature="e#1#58#0" expanded="true" />
+                <element signature="e#0#72#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="it_tieba.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/it_tieba.html">
+      <file leaf-file-name="manage.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/manage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
-              <caret line="183" selection-start-line="183" selection-end-line="183" />
+            <state relative-caret-position="110">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#table#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#img#0;n#a#1;n#div#1;n#div#1;n#th#0;n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#th#0;n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#7185#7189#0#HTML" expanded="true" />
-                <element signature="e#7190#7194#0#HTML" expanded="true" />
-                <element signature="e#7211#7215#0#HTML" expanded="true" />
-                <element signature="e#7217#7221#0#HTML" expanded="true" />
-                <element signature="e#7242#7246#0#HTML" expanded="true" />
-                <element signature="e#7247#7251#0#HTML" expanded="true" />
-                <element signature="e#7252#7256#0#HTML" expanded="true" />
-                <element signature="e#7258#7262#0#HTML" expanded="true" />
-                <element signature="e#7263#7267#0#HTML" expanded="true" />
-                <element signature="e#7269#7273#0#HTML" expanded="true" />
-                <element signature="e#7294#7298#0#HTML" expanded="true" />
-                <element signature="e#7299#7303#0#HTML" expanded="true" />
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="common.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/it_tieba_files/common.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1899">
-              <caret line="162" column="5" selection-start-line="162" selection-start-column="1" selection-end-line="162" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/register.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="622" column="14" selection-start-line="622" selection-start-column="14" selection-end-line="622" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#label#0;n#div#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#label#0;n#div#1;n#div#1;n#div#0;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#label#0;n#div#0;n#div#2;n#div#1;n#div#0;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#0#32#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -170,6 +179,9 @@
         <option value="$PROJECT_DIR$/static/it_tieba_files/common.css" />
         <option value="$PROJECT_DIR$/templates/login.html" />
         <option value="$PROJECT_DIR$/templates/register.html" />
+        <option value="$PROJECT_DIR$/templates/center.html" />
+        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/models.py" />
         <option value="$PROJECT_DIR$/app.py" />
       </list>
     </option>
@@ -194,6 +206,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,22 +222,27 @@
             <path>
               <item name="it_tieba" type="b2602c69:ProjectViewProjectNode" />
               <item name="it_tieba" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="it_tieba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="it_tieba" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../新建文件夹/it_tieba" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -238,7 +256,59 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="it_tieba" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="it_tieba" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Flask (app.py)" type="Python.FlaskServer" factoryName="Flask server" temporary="true" nameIsGenerated="true">
+      <module name="it_tieba" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+    </configuration>
     <configuration name="it_tieba" type="Python.FlaskServer" factoryName="Flask server">
       <module name="it_tieba" />
       <option name="target" value="$PROJECT_DIR$/app.py" />
@@ -246,13 +316,26 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="launchJavascriptDebuger" value="false" />
     </configuration>
+    <list>
+      <item itemvalue="Flask server.it_tieba" />
+      <item itemvalue="Python.models" />
+      <item itemvalue="Flask server.Flask (app.py)" />
+      <item itemvalue="Python.manage" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Flask server.Flask (app.py)" />
+        <item itemvalue="Python.models" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -286,7 +369,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.328877" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.47860962" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49928367" weight="0.32977304" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16260745" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16905445" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -316,28 +399,86 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="58" column="48" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="48" />
+        <state>
           <folding>
-            <element signature="e#1#58#0" expanded="true" />
+            <element signature="e#0#72#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/1.html">
+    <entry file="file://$PROJECT_DIR$/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="66" lean-forward="true" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/register.html">
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9746">
-          <caret line="443" column="14" selection-start-line="443" selection-start-column="14" selection-end-line="443" selection-end-column="14" />
+        <state relative-caret-position="132">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="70" column="35" lean-forward="true" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="58" column="48" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/1.html" />
+    <entry file="file://$PROJECT_DIR$/templates/register.html" />
     <entry file="file://$PROJECT_DIR$/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
@@ -345,83 +486,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/it_tieba.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3850">
-          <caret line="175" column="20" lean-forward="true" selection-start-line="175" selection-start-column="20" selection-end-line="175" selection-end-column="20" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#table#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#img#0;n#a#1;n#div#1;n#div#1;n#th#0;n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#th#0;n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#7185#7189#0#HTML" expanded="true" />
-            <element signature="e#7190#7194#0#HTML" expanded="true" />
-            <element signature="e#7211#7215#0#HTML" expanded="true" />
-            <element signature="e#7217#7221#0#HTML" expanded="true" />
-            <element signature="e#7242#7246#0#HTML" expanded="true" />
-            <element signature="e#7247#7251#0#HTML" expanded="true" />
-            <element signature="e#7252#7256#0#HTML" expanded="true" />
-            <element signature="e#7258#7262#0#HTML" expanded="true" />
-            <element signature="e#7263#7267#0#HTML" expanded="true" />
-            <element signature="e#7269#7273#0#HTML" expanded="true" />
-            <element signature="e#7294#7298#0#HTML" expanded="true" />
-            <element signature="e#7299#7303#0#HTML" expanded="true" />
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/it_tieba.html" />
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
           <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
           <folding>
-            <element signature="e#1#58#0" expanded="true" />
+            <element signature="e#0#72#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11088">
-          <caret line="504" column="34" lean-forward="true" selection-start-line="504" selection-start-column="34" selection-end-line="504" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/it_tieba.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="40" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#table#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#img#0;n#a#1;n#div#1;n#div#1;n#th#0;n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#th#0;n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#7185#7189#0#HTML" expanded="true" />
-            <element signature="e#7190#7194#0#HTML" expanded="true" />
-            <element signature="e#7211#7215#0#HTML" expanded="true" />
-            <element signature="e#7217#7221#0#HTML" expanded="true" />
-            <element signature="e#7242#7246#0#HTML" expanded="true" />
-            <element signature="e#7247#7251#0#HTML" expanded="true" />
-            <element signature="e#7252#7256#0#HTML" expanded="true" />
-            <element signature="e#7258#7262#0#HTML" expanded="true" />
-            <element signature="e#7263#7267#0#HTML" expanded="true" />
-            <element signature="e#7269#7273#0#HTML" expanded="true" />
-            <element signature="e#7294#7298#0#HTML" expanded="true" />
-            <element signature="e#7299#7303#0#HTML" expanded="true" />
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/register.html" />
+    <entry file="file://$PROJECT_DIR$/templates/it_tieba.html" />
     <entry file="file://$PROJECT_DIR$/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -434,7 +511,7 @@
         <state relative-caret-position="361">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
-            <element signature="e#1#58#0" expanded="true" />
+            <element signature="e#0#72#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -446,20 +523,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="73" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/it_tieba.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/register.html" />
+    <entry file="file://$PROJECT_DIR$/templates/it_tieba.html" />
     <entry file="file://$PROJECT_DIR$/templates/register_it_tieba.html" />
     <entry file="file://$PROJECT_DIR$/templates/login_it_tieba.html" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -470,13 +535,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/reg.py" />
-    <entry file="file://$PROJECT_DIR$/static/register_it_tieba_files/core.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/register_it_tieba_files/core.js" />
     <entry file="file://$USER_HOME$/PycharmProjects/it_tieba/venv/Lib/site-packages/sqlalchemy/orm/session.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -491,201 +550,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/register_it_tieba_files/ajax.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/register_it_tieba_files/ajax.js" />
+    <entry file="file://$PROJECT_DIR$/static/it_tieba_files/comment.js" />
+    <entry file="file://$PROJECT_DIR$/templates/test.html" />
+    <entry file="file://$PROJECT_DIR$/templates/1.html" />
+    <entry file="file://$PROJECT_DIR$/static/it_tieba_files/default.css" />
+    <entry file="file://$PROJECT_DIR$/templates/it_tieba.html" />
+    <entry file="file://$PROJECT_DIR$/static/it_tieba_files/common.css" />
+    <entry file="file://$PROJECT_DIR$/templates/register.html" />
+    <entry file="file://$PROJECT_DIR$/templates/center.html" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="372">
           <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/it_tieba_files/comment.js">
+    <entry file="file://$PROJECT_DIR$/templates/detail.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="45" column="60" selection-start-line="45" selection-start-column="60" selection-end-line="45" selection-end-column="60" />
+        <state relative-caret-position="440">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/it_tieba_files/comment.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/test.html">
+    <entry file="file://$PROJECT_DIR$/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7084">
-          <caret line="322" column="27" lean-forward="true" selection-start-line="322" selection-start-column="27" selection-end-line="322" selection-end-column="27" />
+        <state relative-caret-position="88">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#680#684#0#HTML" expanded="true" />
-            <element signature="e#685#689#0#HTML" expanded="true" />
-            <element signature="e#706#710#0#HTML" expanded="true" />
-            <element signature="e#712#716#0#HTML" expanded="true" />
-            <element signature="e#718#722#0#HTML" expanded="true" />
-            <element signature="e#723#727#0#HTML" expanded="true" />
-            <element signature="e#728#732#0#HTML" expanded="true" />
-            <element signature="e#734#738#0#HTML" expanded="true" />
-            <element signature="e#739#743#0#HTML" expanded="true" />
-            <element signature="e#745#749#0#HTML" expanded="true" />
-            <element signature="e#751#755#0#HTML" expanded="true" />
-            <element signature="e#756#760#0#HTML" expanded="true" />
-            <element signature="e#773#777#0#HTML" expanded="true" />
-            <element signature="e#779#783#0#HTML" expanded="true" />
-            <element signature="e#785#789#0#HTML" expanded="true" />
-            <element signature="e#790#794#0#HTML" expanded="true" />
-            <element signature="e#795#799#0#HTML" expanded="true" />
-            <element signature="e#801#805#0#HTML" expanded="true" />
-            <element signature="e#806#810#0#HTML" expanded="true" />
-            <element signature="e#812#816#0#HTML" expanded="true" />
-            <element signature="e#818#822#0#HTML" expanded="true" />
-            <element signature="e#823#827#0#HTML" expanded="true" />
-            <element signature="e#828#832#0#HTML" expanded="true" />
-            <element signature="e#834#838#0#HTML" expanded="true" />
-            <element signature="e#839#843#0#HTML" expanded="true" />
-            <element signature="e#845#849#0#HTML" expanded="true" />
-            <element signature="e#851#855#0#HTML" expanded="true" />
-            <element signature="e#856#860#0#HTML" expanded="true" />
-            <element signature="e#861#865#0#HTML" expanded="true" />
-            <element signature="e#873#879#0#HTML" expanded="true" />
-            <element signature="e#945#951#0#HTML" expanded="true" />
-            <element signature="e#956#962#0#HTML" expanded="true" />
-            <element signature="e#962#968#0#HTML" expanded="true" />
-            <element signature="e#968#972#0#HTML" expanded="true" />
-            <element signature="e#973#977#0#HTML" expanded="true" />
-            <element signature="e#979#983#0#HTML" expanded="true" />
-            <element signature="e#985#989#0#HTML" expanded="true" />
-            <element signature="e#990#994#0#HTML" expanded="true" />
-            <element signature="e#995#999#0#HTML" expanded="true" />
-            <element signature="e#1001#1005#0#HTML" expanded="true" />
-            <element signature="e#1006#1010#0#HTML" expanded="true" />
-            <element signature="e#1012#1016#0#HTML" expanded="true" />
-            <element signature="e#1018#1022#0#HTML" expanded="true" />
-            <element signature="e#1023#1027#0#HTML" expanded="true" />
-            <element signature="e#1028#1032#0#HTML" expanded="true" />
-            <element signature="e#1034#1038#0#HTML" expanded="true" />
-            <element signature="e#1039#1043#0#HTML" expanded="true" />
-            <element signature="e#1045#1049#0#HTML" expanded="true" />
-            <element signature="e#1051#1055#0#HTML" expanded="true" />
-            <element signature="e#1056#1060#0#HTML" expanded="true" />
-            <element signature="e#1061#1065#0#HTML" expanded="true" />
-            <element signature="e#1073#1079#0#HTML" expanded="true" />
-            <element signature="e#1145#1151#0#HTML" expanded="true" />
-            <element signature="e#1156#1162#0#HTML" expanded="true" />
-            <element signature="e#1162#1168#0#HTML" expanded="true" />
-            <element signature="e#1168#1172#0#HTML" expanded="true" />
-            <element signature="e#1173#1177#0#HTML" expanded="true" />
-            <element signature="e#1179#1183#0#HTML" expanded="true" />
-            <element signature="e#1185#1189#0#HTML" expanded="true" />
-            <element signature="e#1190#1194#0#HTML" expanded="true" />
-            <element signature="e#1195#1199#0#HTML" expanded="true" />
-            <element signature="e#1201#1205#0#HTML" expanded="true" />
-            <element signature="e#1206#1210#0#HTML" expanded="true" />
-            <element signature="e#1212#1216#0#HTML" expanded="true" />
-            <element signature="e#1218#1222#0#HTML" expanded="true" />
-            <element signature="e#1223#1227#0#HTML" expanded="true" />
-            <element signature="e#1228#1232#0#HTML" expanded="true" />
-            <element signature="e#1234#1238#0#HTML" expanded="true" />
-            <element signature="e#1239#1243#0#HTML" expanded="true" />
-            <element signature="e#1245#1249#0#HTML" expanded="true" />
-            <element signature="e#1251#1255#0#HTML" expanded="true" />
-            <element signature="e#1256#1260#0#HTML" expanded="true" />
-            <element signature="e#1261#1265#0#HTML" expanded="true" />
-            <element signature="e#1273#1279#0#HTML" expanded="true" />
-            <element signature="e#1345#1351#0#HTML" expanded="true" />
-            <element signature="e#1356#1362#0#HTML" expanded="true" />
-            <element signature="e#1362#1368#0#HTML" expanded="true" />
-            <element signature="e#1368#1372#0#HTML" expanded="true" />
-            <element signature="e#1373#1377#0#HTML" expanded="true" />
-            <element signature="e#1379#1383#0#HTML" expanded="true" />
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/1.html">
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="218" column="30" selection-start-line="218" selection-start-column="30" selection-end-line="218" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/it_tieba_files/default.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/it_tieba.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="183" selection-start-line="183" selection-end-line="183" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#table#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#img#0;n#a#1;n#div#1;n#div#1;n#th#0;n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#th#0;n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#7185#7189#0#HTML" expanded="true" />
-            <element signature="e#7190#7194#0#HTML" expanded="true" />
-            <element signature="e#7211#7215#0#HTML" expanded="true" />
-            <element signature="e#7217#7221#0#HTML" expanded="true" />
-            <element signature="e#7242#7246#0#HTML" expanded="true" />
-            <element signature="e#7247#7251#0#HTML" expanded="true" />
-            <element signature="e#7252#7256#0#HTML" expanded="true" />
-            <element signature="e#7258#7262#0#HTML" expanded="true" />
-            <element signature="e#7263#7267#0#HTML" expanded="true" />
-            <element signature="e#7269#7273#0#HTML" expanded="true" />
-            <element signature="e#7294#7298#0#HTML" expanded="true" />
-            <element signature="e#7299#7303#0#HTML" expanded="true" />
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/it_tieba_files/common.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1899">
-          <caret line="162" column="5" selection-start-line="162" selection-start-column="1" selection-end-line="162" selection-end-column="5" />
+        <state relative-caret-position="-286">
+          <caret line="8" column="62" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#1;n#div#1;n#div#0;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#0;n#div#2;n#div#1;n#div#0;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="622" column="14" selection-start-line="622" selection-start-column="14" selection-end-line="622" selection-end-column="14" />
+        <state relative-caret-position="704">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-160">
-          <caret line="70" column="35" lean-forward="true" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
+        <state relative-caret-position="2640">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
           <folding>
-            <element signature="e#1#58#0" expanded="true" />
+            <element signature="e#0#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
